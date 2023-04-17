@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable Artificial Intelligence (XAI), Intelligent Manufacturing, Digital Pathology, Concept Drift
 
 ## Skills
-### Environment
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
-
 ### Programming Languages
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
