@@ -35,6 +35,8 @@ Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 </span>
 
@@ -46,6 +48,9 @@ Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable 
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-00ffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
     <br> 
   </span>
 </block>  
@@ -54,8 +59,8 @@ Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable 
 <span> 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
 </span>
 
 <!--
