@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # MinJeong Kang
-🏫 (22.02 - ) Kwangwoon University M.S. Student in AI Applications, '[AIaaS Lab(인공지능서비스연구실)](https://sites.google.com/view/aiaas/main)' <br>
+🏫 (22.02 - 24.02) Kwangwoon University M.S. Student in AI Applications, '[AIaaS Lab(인공지능서비스연구실)](https://sites.google.com/view/aiaas/main)' <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) Kwangwoon University B.S. Student in '[Information Convergence](https://ic.kw.ac.kr:501/main/main.php)', Major in Data Science <br>
 📧 Contact: 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
