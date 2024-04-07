@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) Kwangwoon University B.S. Student in '[Information Convergence](https://ic.kw.ac.kr:501/main/main.php)', Major in Data Science <br>
 📧 Contact: 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://withu-mj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/withu.mj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ## Research Interests
