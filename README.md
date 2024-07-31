@@ -14,24 +14,29 @@ Here are some ideas to get you started:
 -->
 
 # MinJung Kang
-🏫 (22.02 - 24.02) Kwangwoon University M.S. Student in AI Applications, '[AIaaS Lab(인공지능서비스연구실)](https://sites.google.com/view/aiaas/main)' <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) Kwangwoon University B.S. Student in '[Information Convergence](https://ic.kw.ac.kr:501/main/main.php)', Major in Data Science <br>
+
+🏫 (24.07 - ) Intern Researcher, Bio-Medical Informatics Lab, Seoul National University Hospital <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22.02 - 24.02) M.S. Department of Applied Artificial Intelligence, Kwangwoon University, [AIaaS Lab](https://sites.google.com/view/aiaas/main) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) B.S., School of [Information Convergence](https://ic.kw.ac.kr:501/main/main.php)(Data Science Major), Kwangwoon University <br><br>
 📧 Contact: 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+&nbsp;<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://withu-mj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/withu.mj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/withu.mj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a></a>
 
-## Research Interests
-Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable Artificial Intelligence (XAI), Intelligent Manufacturing, Digital Pathology, Concept Drift
-
-## Skills
-### Programming Languages
+***
+### Research Interests
+- Data Science
+- Medical AI
+- Time series Analysis
+***
+### Skills
+#### Programming Languages
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
 
-### Tools
+#### Tools
 <span> 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -41,7 +46,7 @@ Data Science, Data Mining, Time series Analysis, Anomaly Detection, Explainable 
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 </span>
 
-### Data Mining Skills
+#### Data Mining Skills
 <block>
   <span>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
