@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 
 # MinJung Kang
 
-🏫 (24.07 - ) Intern Researcher, Bio-Medical Informatics Lab, Seoul National University Hospital <br>
+🔭 (24.07 - ) Intern Researcher, Bio-Medical Informatics Lab, Seoul National University Hospital <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22.02 - 24.02) M.S. Department of Applied Artificial Intelligence, Kwangwoon University, [AIaaS Lab](https://sites.google.com/view/aiaas/main) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) B.S., School of [Information Convergence](https://ic.kw.ac.kr:501/main/main.php)(Data Science Major), Kwangwoon University <br><br>
 📧 Contact: 
 &nbsp;<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://withu-mj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/withu.mj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a></a>
+<br>
 
-***
-### Research Interests
+## 🌱 Research Interests
 - Data Science
 - Medical AI
 - Time series Analysis
-***
-### Skills
+
+## ⚡ Skills
 #### Programming Languages
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
