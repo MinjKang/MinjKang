@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
-
+<!--
 #### Tools
 <span> 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 </span>
+--!>
 
 #### Data Mining Skills
 <block>
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
   </span>
 </block>  
 
-### Front-End Skills
+#### Front-End Skills
 <span> 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
