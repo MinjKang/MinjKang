@@ -30,13 +30,14 @@ Here are some ideas to get you started:
 - Digital Pathology
 - Time series Analysis
 
+<!--
 ## ⚡ Skills
 #### Programming Languages
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> 
 </span>
-<!--
+
 #### Tools
 <span> 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 </span>
---!>
 
 #### Data Mining Skills
 <block>
@@ -70,7 +70,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
 </span>
 
-<!--
 ## Publications
 ### Papers
 - Kang, M.J., Lee, S.M.*, (2021) Explainable Time Series Anomaly Detection for Production Capacity Planning, Korea Conference on Software Engineering <br>
