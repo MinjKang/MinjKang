@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## 🌱 Research Interests
 - Data Science
 - Medical AI
+- Digital Pathology
 - Time series Analysis
 
 ## ⚡ Skills
