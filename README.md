@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 🔭 (24.07 - ) Intern Researcher, Bio-Medical Informatics Lab, Seoul National University Hospital <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22.02 - 24.02) M.S. Department of Applied Artificial Intelligence, Kwangwoon University, [AIaaS Lab](https://sites.google.com/view/aiaas/main) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) B.S., School of [Information Convergence](https://ic.kw.ac.kr:501/main/main.php)(Data Science Major), Kwangwoon University <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) B.S., School of [Information Convergence](https://ic.kw.ac.kr:501/main/main.php)(Data Science Major), Kwangwoon University <br>
+
+📄 이력서: [Curriculum Vitae](https://github.com/MinjKang/MinjKang/raw/main/강민정_CV.pdf)
+
+
 📧 Contact: 
 &nbsp;<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://withu-mj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Gmail&logoColor=white"/></a>
