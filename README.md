@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22.02 - 24.02) M.S. Department of Applied Artificial Intelligence, Kwangwoon University, [AIaaS Lab](https://sites.google.com/view/aiaas/main) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18.03 - 22.02) B.S., School of [Information Convergence](https://ic.kw.ac.kr:501/main/main.php)(Data Science Major), Kwangwoon University <br>
 
-📄 이력서: [Curriculum Vitae](https://github.com/MinjKang/MinjKang/raw/main/강민정_CV.pdf)
+📄 이력서: [Curriculum Vitae](https://raw.githubusercontent.com/MinjKang/MinjKang/main/강민정_CV.pdf)
 
 
 📧 Contact: 
